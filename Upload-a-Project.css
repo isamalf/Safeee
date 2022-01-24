@@ -1,0 +1,52 @@
+ .u-section-1 {
+  background-image: linear-gradient(#7013df, black);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 765px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 107px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 329px;
+  width: 570px;
+  margin: 69px auto 60px;
+}
+
+.u-section-1 .u-input-1 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+}
+
+.u-section-1 .u-input-2 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+}
+
+.u-section-1 .u-input-3 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: solid;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}
